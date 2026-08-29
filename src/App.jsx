@@ -11,7 +11,7 @@ function App() {
         "A full-stack e-commerce application where users can browse products, manage their cart and interact with a responsive shopping interface.",
       technologies: ["React", "JavaScript", "Node.js", "Express", "MongoDB"],
       github: "https://github.com/skVijayasri/Ecommerce-Shopping-Cart.git",
-      demo: "https://drive.google.com/file/d/1m0Wcw4KFcpc-3hsiH-x2vkN1vuJuZR0o/view?usp=sharing",
+      demo: "http://ecommerce-shopping-cart-mu.vercel.app",
     },
 
     {
@@ -20,7 +20,7 @@ function App() {
         "A full-stack social media platform where users can create posts, interact with other users, like and comment on posts, and manage their profiles.",
       technologies: ["React", "Node.js", "Express", "MongoDB", "JWT"],
       github: "https://github.com/skVijayasri/Social-Media-App.git",
-      demo: "https://drive.google.com/file/d/1-Sg_6I1qZxId5a_U0njngxn7Zo8WZcft/view?usp=sharing",
+      demo: "https://social-media-app-delta-virid.vercel.app/",
     },
 
     {
@@ -29,7 +29,7 @@ function App() {
         "A job portal application connecting recruiters and job seekers with job posting, searching, application management and role-based access.",
       technologies: ["React", "Node.js", "Express", "MongoDB", "JWT"],
       github: "https://github.com/skVijayasri/Career-Hub.git",
-      demo: "https://drive.google.com/file/d/1ak2pNJSIAoe7c1ymIZX2LbwPzt7un5kx/view?usp=sharing",
+      demo: "https://careerhub-frontend-three.vercel.app/",
     },
   ];
 
