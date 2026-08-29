@@ -161,7 +161,7 @@ function App() {
                 </p>
 
                 <p className="indent2">
-                  <span className="green">"MongoDB"</span>
+                  <span className="green">"MongoDB"</span>,
                 </p>
                 <p className="indent2">
                   <span className="green">"Express.js"</span>
