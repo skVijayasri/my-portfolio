@@ -9,7 +9,7 @@ function App() {
       title: "E-Commerce Shopping Application",
       description:
         "A full-stack e-commerce application where users can browse products, manage their cart and interact with a responsive shopping interface.",
-      technologies: ["React", "JavaScript", "Node.js", "Express", "MongoDB"],
+      technologies: ["React", "JavaScript", "Node.js", "Express", "MySQL"],
       github: "https://github.com/skVijayasri/Ecommerce-Shopping-Cart.git",
       demo: "http://ecommerce-shopping-cart-mu.vercel.app",
     },
