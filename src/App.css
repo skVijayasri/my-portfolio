@@ -181,7 +181,26 @@ a {
 .social-links a:hover {
   color: #5eead4;
 }
+.btn {
+  padding: 13px 22px;
+  border-radius: 7px;
+  font-weight: 600;
+  font-size: 14px;
+  transition: 0.3s;
+  display: inline-block;
+}
 
+
+.download-resume {
+  background: #5eead4;
+  color: #06111d;
+}
+
+
+.download-resume:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 30px rgba(94,234,212,0.2);
+}
 
 /* CODE CARD */
 

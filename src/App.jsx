@@ -50,6 +50,10 @@ function App() {
       category: "Tools",
       items: ["Git", "GitHub", "VS Code"],
     },
+     {
+    category: "Soft Skills",
+    items: ["Problem Solving", "Debugging", "Collaboration", "Communication"],
+  },
   ];
 
   return (
@@ -111,6 +115,9 @@ function App() {
 
               <a href="#projects" className="btn primary">
                 View My Projects
+              </a>
+              <a href="/resume.pdf" className="btn download-resume" target="_blank" rel="noopener noreferrer">
+                Download Resume
               </a>
 
              
